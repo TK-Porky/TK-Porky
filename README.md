@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 À propos de moi
+### À propos de moi
 
 ```yaml
 nom       : TK-Porky
