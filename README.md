@@ -31,7 +31,7 @@ questions_bienvenues:
   - Développement Web
   - Développement Mobile
   - Développement de Jeux Vidéo
-fun_fact  : "Skyrim est la Terre des Nordiques!"
+fun_fact  : "Bordeciel est la Terre des Nordiques!"
 ```
 
 ---
